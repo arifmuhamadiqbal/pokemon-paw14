@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-paw14/static/css/main.d62f272d.css",
+    "main.js": "/pokemon-paw14/static/js/main.296e85bf.js",
+    "index.html": "/pokemon-paw14/index.html",
+    "main.d62f272d.css.map": "/pokemon-paw14/static/css/main.d62f272d.css.map",
+    "main.296e85bf.js.map": "/pokemon-paw14/static/js/main.296e85bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62f272d.css",
+    "static/js/main.296e85bf.js"
+  ]
+}
