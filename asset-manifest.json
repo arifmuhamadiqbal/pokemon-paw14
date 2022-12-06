@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pokemon-paw14/static/css/main.d62f272d.css",
-    "main.js": "/pokemon-paw14/static/js/main.087a5195.js",
+    "main.css": "/pokemon-paw14/static/css/main.b107bb0d.css",
+    "main.js": "/pokemon-paw14/static/js/main.8a62fbf2.js",
     "index.html": "/pokemon-paw14/index.html",
-    "main.d62f272d.css.map": "/pokemon-paw14/static/css/main.d62f272d.css.map",
-    "main.087a5195.js.map": "/pokemon-paw14/static/js/main.087a5195.js.map"
+    "main.b107bb0d.css.map": "/pokemon-paw14/static/css/main.b107bb0d.css.map",
+    "main.8a62fbf2.js.map": "/pokemon-paw14/static/js/main.8a62fbf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d62f272d.css",
-    "static/js/main.087a5195.js"
+    "static/css/main.b107bb0d.css",
+    "static/js/main.8a62fbf2.js"
   ]
 }
