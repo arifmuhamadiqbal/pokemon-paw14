@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<PokemonList />} />
+        <Route path='https://arifmuhamadiqbal.github.io/pokemon-paw14' element={<PokemonList />} />
         <Route path='/pokemon/:id' element={<PokemonIntroduction />} />
       </Routes>
     </BrowserRouter>
