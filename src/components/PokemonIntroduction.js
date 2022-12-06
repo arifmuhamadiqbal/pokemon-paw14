@@ -96,7 +96,7 @@ export default function PokemonIntroduction() {
               </ul>
             ))}
         </span>
-        <Link to={"https://arifmuhamadiqbal.github.io/pokemon-paw14"} className="modal-btn-close">
+        <Link to={"/pokemon-paw14"} className="modal-btn-close">
           Back
         </Link>
       </div>
